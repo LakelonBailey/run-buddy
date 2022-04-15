@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: #024e76;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+  }
+  
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+  }
+header a {
+    text-decoration: none;
+    color: #fce138;
+  }
+  
+header nav {
+    float: right;
+    margin: 7px 0;
+  }
+  
+header nav ul li {
+    display: inline;
+  }
+  
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+.hero {
+    text-align: center;
+    background-image: url('../images/hero-bg.jpg');
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    padding: 60px 450px 80px 450px;
+}
+.hero h1 {
+    padding: 12px;
+    font-size: 40px;
+    font-weight: 350;
+    color: #fce138;
+    font-style: italic;
+    vertical-align: center;
+    border-bottom: solid 3px #fce138;
+}
+.main {
+    padding: 60px 100px;
+    margin: 24px;
+}
+.main p {
+    padding: 12px 0;
+    font-size: 16px;
+
+}
+.main ul {
+    padding-left: 16px;
+    font-size: 12px;
+    color: #39a6b2;
+}
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+  }
+  
+  footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+  }
+  
+  footer a {
+    color: #024e76;
+  }
+  footer p {
+      color: #39a6b2;
+  }
