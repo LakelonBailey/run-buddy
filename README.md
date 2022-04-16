@@ -1,13 +1,16 @@
-# run-buddy
-## Purpose
-A Website that offers fitness training services
+# Run Buddy, Inc
 
-## Built With 
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
 * HTML
 * CSS
 
 ## Website
-https://lakelonbailey.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
-## Contribution 
-Made by Lakelon Bailey
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
